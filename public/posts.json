@@ -28,5 +28,16 @@
     "id": 6,
     "title": "Frontend Project Ideas",
     "body": "Simple projects help reinforce JavaScript and React fundamentals."
+  },
+  {
+    "id": 7,
+    "title": "Setting Up ESLint",
+    "body": "ESLint helps maintain code quality and consistency in your projects."
+  },
+  {
+    "id": 8,
+    "title": "Building with Vite",
+    "body": "Vite's fast build times improve development workflow significantly."
   }
+
 ]
