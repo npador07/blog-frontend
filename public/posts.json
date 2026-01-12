@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Learning React with Vite",
+    "body": "Vite is a fast build tool that makes React development much easier."
+  },
+  {
+    "id": 2,
+    "title": "Why Tailwind CSS is Popular",
+    "body": "Tailwind allows you to style directly in your markup using utility classes."
+  },
+  {
+    "id": 3,
+    "title": "Understanding useEffect",
+    "body": "The useEffect hook lets you run side effects like data fetching."
+  },
+  {
+    "id": 4,
+    "title": "Component-Based UI",
+    "body": "React apps are built using small reusable components."
+  },
+  {
+    "id": 5,
+    "title": "Fetching Data in React",
+    "body": "You can fetch APIs using fetch or axios inside useEffect."
+  },
+  {
+    "id": 6,
+    "title": "Frontend Project Ideas",
+    "body": "Simple projects help reinforce JavaScript and React fundamentals."
+  }
+]
