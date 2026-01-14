@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Michael Jordan",
     "body": "The Greatest Basketball Player of All Time",
-    "image": "https://picsum.photos/400/250?random=1" },
+    "image": "https://www.nba.com/player/893/michael-jordan" },
   {
     "id": 2,
     "title": "Why Tailwind CSS is Popular",
@@ -41,3 +41,4 @@
   }
 
 ]
+
