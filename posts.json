@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Michael Jordan",
+    "body": "The Greatest Basketball Player of All Time",
+    "image": "/images/mj.jpg" 
+  },
+  {
+    "id": 2,
+    "title": "LeBron James",
+    "body": "Arguably greater than MJ?",
+    "image": "/images/lbj.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Kobe Bryant",
+    "body": "The Black Mamba, a legend on and off the court.",
+    "image": "/images/kobe.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Shaquille O'Neal",
+    "body": "The most dominant center in NBA history.",
+    "image": "/images/shaq.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Stephen Curry",
+    "body": "The greatest shooter in NBA history.",
+    "image": "/images/steph.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Kevin Durant",
+    "body": "One of the most versatile scorers ever.",
+    "image": "/images/kd.jpg"
+  }
+
+]
+
