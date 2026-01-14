@@ -3,41 +3,37 @@
     "id": 1,
     "title": "Michael Jordan",
     "body": "The Greatest Basketball Player of All Time",
-    "image": "https://www.nba.com/player/893/michael-jordan" },
+    "image": "/images/mj.jpg" 
+  },
   {
     "id": 2,
-    "title": "Why Tailwind CSS is Popular",
-    "body": "Tailwind allows you to style directly in your markup using utility classes."
+    "title": "LeBron James",
+    "body": "Arguably greater than MJ?",
+    "image": "/images/lbj.jpg"
   },
   {
     "id": 3,
-    "title": "Understanding useEffect",
-    "body": "The useEffect hook lets you run side effects like data fetching."
+    "title": "Kobe Bryant",
+    "body": "The Black Mamba, a legend on and off the court.",
+    "image": "/images/kobe.jpg"
   },
   {
     "id": 4,
-    "title": "Component-Based UI",
-    "body": "React apps are built using small reusable components."
+    "title": "Shaquille O'Neal",
+    "body": "The most dominant center in NBA history.",
+    "image": "/images/shaq.jpg"
   },
   {
     "id": 5,
-    "title": "Fetching Data in React",
-    "body": "You can fetch APIs using fetch or axios inside useEffect."
+    "title": "Stephen Curry",
+    "body": "The greatest shooter in NBA history.",
+    "image": "/images/steph.jpg"
   },
   {
     "id": 6,
-    "title": "Frontend Project Ideas",
-    "body": "Simple projects help reinforce JavaScript and React fundamentals."
-  },
-  {
-    "id": 7,
-    "title": "Setting Up ESLint",
-    "body": "ESLint helps maintain code quality and consistency in your projects."
-  },
-  {
-    "id": 8,
-    "title": "Building with Vite",
-    "body": "Vite's fast build times improve development workflow significantly."
+    "title": "Kevin Durant",
+    "body": "One of the most versatile scorers ever.",
+    "image": "/images/kd.jpg"
   }
 
 ]

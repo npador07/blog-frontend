@@ -30,10 +30,10 @@ export default function App() {
       <header className="border-b bg-white/80 backdrop-blur">
         <div className="max-w-screen-xl mx-auto px-6 py-10">
           <h1 className="text-4xl font-extrabold tracking-tight">
-            Latest Posts
+            Legends Posts
           </h1>
           <p className="mt-2 text-gray-500 max-w-xl">
-            Discover recent articles, updates, and insights curated just for you.
+            Insights and stories about the greatest basketball players of all time.
           </p>
         </div>
       </header>
