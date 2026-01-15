@@ -5,7 +5,7 @@ export default function PostCard({ post }) {
       {/* Image wrapper with fixed ratio */}
       <div className="aspect-[16/9] w-full">
         <img
-          src={post.image}
+          src={`${import.meta.env.BASE_URL}${post.image}`}
           alt={post.title}
           className="w-full h-full object-cover"
         />
@@ -23,3 +23,4 @@ export default function PostCard({ post }) {
     </article>
   );
 }
+  

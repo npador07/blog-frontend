@@ -9,7 +9,8 @@ export default function App() {
   useEffect(() => {
     async function loadPosts() {
       try {
-        const res = await fetch("/posts.json");
+        const res = await fetch(`${import.meta.env.BASE_URL}posts.json`);
+;
         if (!res.ok) throw new Error("Fetch failed");
 
         const data = await res.json();
